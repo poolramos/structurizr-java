@@ -8,9 +8,9 @@ import com.structurizr.view.*;
 import java.util.stream.Collectors;
 
 public class Program {
-    private static final long WORKSPACE_ID = 25441;
-    private static final String API_KEY = "";
-    private static final String API_SECRET = "";
+    private static final long WORKSPACE_ID = 55547;
+    private static final String API_KEY = "da03eb67-8997-497c-b843-57dd8da2d503";
+    private static final String API_SECRET = "b74fb551-7a1d-4351-b522-84370de01104";
 
     public static void main(String[] args) throws Exception {
         StructurizrClient structurizrClient = new StructurizrClient(API_KEY, API_SECRET);
